@@ -20,3 +20,8 @@ sys.path.insert(0, os.path.abspath('..'))
 from config.all import *
 
 language = 'pt'
+
+# General information about the project.
+project = u'Servidor Swift Origin'
+copyright = u'2012, OpenStack, LLC'
+
