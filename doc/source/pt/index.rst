@@ -75,7 +75,7 @@ Emitindo um pedido origin:
 
 
 Configurando *Logging*:
-------------------
+-----------------------
 Se você quiser adicionar *logging* separado para SOS no seu SAIO, precisara editar 
 a sua configuração do rsyslogd e adicionar os seguintes detalhes 
 
